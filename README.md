@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Any modern browser should work 
 
 ```
-I recommend Chrome.
+I recommend Chrome
 ```
 
 ### Installing
