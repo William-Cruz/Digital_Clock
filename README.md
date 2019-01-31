@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Any modern browser should work. 
+Any modern browser should work 
 
 ```
 I recommend Chrome.
